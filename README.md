@@ -20,12 +20,14 @@ Hi there. I'm a web developer.
 
 ## :pencil2: Studying or Interested in
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 
 <br>
 
 ## :calling: Social
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://blog-risingcurve.vercel.app/) [![Tistory Badge](https://img.shields.io/badge/Tistory_blog-555263?style=for-the-badge&logo=Tistory&logoColor=white)](https://risingcurve.tistory.com/) [![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://sleepy-magnolia-f53.notion.site/aeb134d735f84354803583c88681ad32?pvs=4)
+
 [![Naver Badge](https://img.shields.io/badge/Naver_email-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:gksdnjswhd10@naver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hanonejong/)
 
 <br>
