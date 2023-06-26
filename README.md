@@ -33,6 +33,6 @@ Hi there. I'm a web developer.
 <br>
 
 <div>
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=risingcurve&show_icons=true&theme=radical">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingcurve&layout=compact&theme=radical">
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=risingcurve&show_icons=true&theme=swift">
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingcurve&layout=compact&theme=swift">
 </div>
