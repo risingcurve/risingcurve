@@ -1,4 +1,4 @@
-# :evergreen_tree: Wonjong Han
+# :evergreen_tree: WJ Han
 
 Hi there. I'm a web developer.   
 <br>
