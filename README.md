@@ -9,7 +9,6 @@ Hi there. I'm a software engineer.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<br>
 
 ## :calling: Social
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://blog-risingcurve.vercel.app/) [![Tistory Badge](https://img.shields.io/badge/Tistory_blog-555263?style=for-the-badge&logo=Tistory&logoColor=white)](https://risingcurve.tistory.com/) [![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://sleepy-magnolia-f53.notion.site/aeb134d735f84354803583c88681ad32?pvs=4)
